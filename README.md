@@ -1,4 +1,4 @@
-# searchEngine
+# Document-Search-Engine
 A simple search engine to search files that have been uploaded in the database
 
 
